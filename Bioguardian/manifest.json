@@ -1,6 +1,6 @@
 {
-  "version": "0.1.8",
-  "url": "https://raw.githubusercontent.com/ProtodynamicsSrl/pest-control-firmware/main/Bioguardian/bioguardian_firmware_0.1.8.bin",
+  "version": "0.1.9",
+  "url": "https://raw.githubusercontent.com/ProtodynamicsSrl/pest-control-firmware/main/Bioguardian/bioguardian_firmware_0.1.9.bin",
   "size": 1136416,
-  "sha256": "715e64b819bc7f1a6f9126437de934b1f5c37cd8b4f4ff885660ee42f6a9022b"
+  "sha256": "c6308a6f733bf8bb475f27925d4c8f47d9afc6b8baedf7a7306e4dbe0dcb0500"
 }
